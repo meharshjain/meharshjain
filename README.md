@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://meharshjain.com/">Portfolio</p>
 
-- 👨‍💻 All of my projects are available at [meharshjain.com](meharshjain.com)
+- 👨‍💻 All of my projects are available at [meharshjain](https://meharshjain.com/)
 
 - 📫 How to reach me **meharsh2001@gmail.com**
 
-- 📄 Know about my experiences [meharshjain.com](meharshjain.com)
+- 📄 Know about my experiences [meharshjain.com](https://meharshjain.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
